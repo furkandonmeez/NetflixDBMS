@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\bin\Debug\Netflix.exe.config
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\bin\Debug\Netflix.exe
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\bin\Debug\Netflix.pdb
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.exe
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.pdb
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.Register.resources
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.Subscription.resources
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.Payment.resources
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.Login.resources
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.Home.resources
+C:\Users\Furkan\Desktop\Phase3\Netflix\Netflix\obj\Debug\Netflix.Movies.resources
